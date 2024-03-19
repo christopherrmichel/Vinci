@@ -1,0 +1,27 @@
+1 - Copiar a pasta vinci-hidrotecnica para dentro do disco C, 
+ou seja, vá em meu computador e procuro pelos dispositivos e 
+unidades, abra o "C:" e cole o material nessa pasta.
+
+2 - Ao abrir a pasta vinci-hidrotecnica, encontrará um arquivo
+ executável no excel que contém os dados e também será o 
+responsável pela emissão dos relatórios.
+Através dessa tabela é possível emitir os relatórios por
+condomínio, por bloco, por valor e todos os demais campos
+podendo também combinar filtros para gerar os relatórios.
+
+3 - Para inserir as leituras do mês, há a aplicação que é
+responsável por inserir os dados de medição do mes e data 
+de medição na tabela excel, salvar as imagens e emitir os
+demonstrativos. Através da aplicação é possível emitir 
+sempre 3 demonstrativos.
+Para acessar a aplicação deve entrar no seguinte caminho
+vinci-hidrotecnica/Vinci-Hidrotécnica/bin/Debug/Vinci-Hidrotécnica.exe
+
+4 - As imagens ficarão na pasta imagens, dentro da pasta
+inicial, sendo que ao entrar na pasta imagens, estará 
+organizado por pastas de cada condomínio e internamente
+organizada por pastas com cada apartamento.
+Dessa forma, é possível pegar o histórico de medições
+de um cliente através das imagens.
+O nome do arquivo será o mes e ano que foi realizada
+a medida.
